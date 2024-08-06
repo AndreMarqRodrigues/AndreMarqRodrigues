@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreMarqRodrigues
 - 👀 I’m interested in Web Develoment
-- 🌱 I’m currently learning Vue and Flask
+- 🌱 I’m currently utlizing my skills to improve how the world moves @BMW
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me andre.m.rodrigues01@gmail.com
 - 😄 Pronouns: He/him
